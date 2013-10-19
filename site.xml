@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.sriramramani.droid.inspector.feature_0.1.0.201308260110.jar" id="com.sriramramani.droid.inspector.feature" version="0.1.0.201308260110">
+      <category name="com.sriramramani.droid.inspector.category"/>
+   </feature>
+   <category-def name="com.sriramramani.droid.inspector.category" label="Droid Inspector"/>
+</site>
